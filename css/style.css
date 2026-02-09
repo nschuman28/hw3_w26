@@ -114,7 +114,7 @@ header nav a:focus{
 
   /* Step 10: Write the selector/rule property to style the nav element */
   nav{
-     align-items: right;
+     text-align: right;
      padding-top: 35px;
      padding-bottom: 35px;
      padding-left:0px;
